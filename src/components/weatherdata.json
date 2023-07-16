@@ -1,0 +1,48 @@
+[
+    {
+      "date": "2018-05-06",
+      "temperatureC": 1,
+      "summary": "Freezing",
+      "temperatureF": 33,
+      "humidity": 80,
+      "windSpeed": 10,
+      "precipitation": "None"
+    },
+    {
+      "date": "2018-05-07",
+      "temperatureC": 14,
+      "summary": "Bracing",
+      "temperatureF": 57,
+      "humidity": 65,
+      "windSpeed": 15,
+      "precipitation": "None"
+    },
+    {
+      "date": "2018-05-08",
+      "temperatureC": -13,
+      "summary": "Freezing",
+      "temperatureF": 9,
+      "humidity": 90,
+      "windSpeed": 5,
+      "precipitation": "Snow"
+    },
+    {
+      "date": "2018-05-09",
+      "temperatureC": -16,
+      "summary": "Balmy",
+      "temperatureF": 4,
+      "humidity": 75,
+      "windSpeed": 8,
+      "precipitation": "None"
+    },
+    {
+      "date": "2018-05-10",
+      "temperatureC": -2,
+      "summary": "Chilly",
+      "temperatureF": 29,
+      "humidity": 70,
+      "windSpeed": 12,
+      "precipitation": "Rain"
+    }
+  ]
+  
